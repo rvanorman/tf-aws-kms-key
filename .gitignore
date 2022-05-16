@@ -1,4 +1,4 @@
-terraform.tfvars
+test-terraform.tfvars
 private.key
 terraform.tfstate
 terraform.tfstate.backup
